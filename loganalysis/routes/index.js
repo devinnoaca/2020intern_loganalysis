@@ -13,8 +13,7 @@ router.get('/', function(req, res, next) {
   const ParseDate = logParer.webLogParser(logData);  
   toJson.objectToJson('./jsonLogs/apache.json', ParseDate);
     // toJson.objectToJson('./jsonLogs/123.json', ParseDate);
-
-  countObject.countUrl('./jsonLogs/apache.json','./jsonLogs/countRefer.json', 'ip');
+  countObject.countUrl('./jsonLogs/apache.json','./jsonLogs/countRefer.json', 'url');
 });
 
 module.exports = router;
