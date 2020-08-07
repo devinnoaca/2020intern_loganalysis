@@ -25,6 +25,9 @@ exports.webLogParser = (logArray) =>{  //split된 로그 배열을 입력 받음
 
         if(regexMethod) {
             realMethod = splitMethod(regexMethod[0]);
+            if(realMethod[1].indexOf('.ico')!=-1) realMethod=0; // ico 데이터는 필요 없음
+            else if(realMethod[1].indexOf('.css')!=-1) realMethod=0; // css 데이터는 필요 없음
+
         }
         
         if(regexIp && realMethod && regexDate && regexRefer){
@@ -36,7 +39,7 @@ exports.webLogParser = (logArray) =>{  //split된 로그 배열을 입력 받음
                 refer: regexRefer[0]
             });
          }
-        else if(regexIp && regexMethod && regexDate){
+        else if(regexIp && realMethod && regexDate){
             webLogObject.push({
                 ip: regexIp[0],
                 method: realMethod[0],
@@ -45,7 +48,7 @@ exports.webLogParser = (logArray) =>{  //split된 로그 배열을 입력 받음
                 refer: '/'
             });
         }
-        else if(regexMethod && regexDate){
+        else if(realMethod && regexDate){
             webLogObject.push({
                 ip: '127.0.0.1',
                 method: realMethod[0],
