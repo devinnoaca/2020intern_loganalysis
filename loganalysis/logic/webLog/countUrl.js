@@ -112,6 +112,9 @@ exports.countUrl = async (inputFileName, outputFileName, object) =>{
         if(object === "refer") countingRefer(e.refer);
     });
         try{
+            counted.sort((a,b)=>{ //내림 차순 정렬
+                return a.count > b.count ? -1 : a.count < b.count ? 1 : 0;
+            });
             // toJson.objectToJson('./jsonLogs/countRefer.json', counted);
             toJson.objectToJson(outputFileName, counted);
         }
