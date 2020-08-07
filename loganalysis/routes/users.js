@@ -1,9 +1,10 @@
 var express = require('express');
+const { restart } = require('nodemon');
 var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
+  res.render("test.html");
 });
 
 module.exports = router;
