@@ -16,7 +16,7 @@ router.get('/:inputName/:outputName', async(req, res, next) =>{
         /*
         상태 코드 넣어야함
         */
-        res.status(200);
+        res.status(200).send(JSON.parse(logData));
     }catch(err){
         console.log(err);
     }
