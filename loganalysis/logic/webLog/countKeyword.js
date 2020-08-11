@@ -2,15 +2,17 @@
 const fs = require('fs');
 const objectToJson = require('../objectToJson');
 const countingKeyword = require('./counting/countingKeyword');
-/* 자동으로 할 방법 더 고민해보기 */
-
 
 exports.countKeyword = (objectType, inputFileName, outputFileName) =>{ 
-    const readFile =  fs.readFileSync(inputFileName,'utf-8');
-    const parseFile =  JSON.parse(readFile);
-    const countedData = countingKeyword.countingKeyword(parseFile, objectType);
-    countedData.sort((a,b)=>{ //내림 차순 정렬
-        return a.count > b.count ? -1 : a.count < b.count ? 1 : 0;
-    });
-    objectToJson.objectToJson(outputFileName, countedData);
+    if(objectType && inputFileName && outputFileName){
+        const readFile = fs.readFileSync(inputFileName,'utf-8');
+        const parseFile = JSON.parse(readFile);
+        /*객체 내부의 입력받은 type의 개수를 셈 (시각화를 위한 데이터를 만드는 것) */
+        const countedData = countingKeyword.countingKeyword(parseFile, objectType);
+        countedData.sort((a,b)=>{ //객체들을 내림차순으로 정렬 함
+            return a.count > b.count ? -1 : a.count < b.count ? 1 : 0;
+        });
+        /*객체를 JSON 파일로 바꿔줌*/
+        objectToJson.objectToJson(outputFileName, countedData);
+    }
 };

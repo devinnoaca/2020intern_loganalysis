@@ -1,24 +1,21 @@
 /* 파싱 라우터 */
 const express = require('express');
 const router = express.Router();
-const logParer = require('../../logic/webLog/logParser.js');
+const logParer = require('../../logic/webLog/logParser.js'); 
 const splitLog = require('../../logic/splitLog');
 const objectToJson = require('../../logic/objectToJson');
 
+// /webLogs/parsing/{inputName}/{outputName}
+
 router.get('/:inputName/:outputName', async(req, res, next) =>{
-    const inputName =  await 'logs/webLogs/' + req.params.inputName;
-    const outputName = await 'jsonLogs/webLogs/' + req.params.outputName;
-    const splitData = await splitLog.splitLog(inputName); //로그 split
-    const logData =  await logParer.webLogParser(splitData); // log parsing
-    try{
-        objectToJson.objectToJson(outputName, logData);
-        console.log("파싱 성공");
-        /*
-        상태 코드 넣어야함
-        */
-        res.status(200);
-    }catch(err){
-        console.log(err);
+    const inputName = 'logs/webLogs/' + req.params.inputName;
+    const outputName = 'jsonLogs/webLogs/' + req.params.outputName;
+    if(inputName && outputName){
+        const splitData = await splitLog.splitLog(inputName); //로그 split
+        const logData =  await logParer.webLogParser(splitData); // log parsing
+        objectToJson.objectToJson(outputName, logData);  //객체를 JSON 파일로 바꿈
+        // console.log(" 성공");
+        res.json('파싱 성공');
     }
 });
 
