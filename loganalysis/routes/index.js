@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 var express = require('express');
 var router = express.Router();
@@ -16,6 +17,15 @@ router.get('/', function(req, res, next) {
     // toJson.objectToJson('./jsonLogs/123.json', ParseDate);
   countObject.countUrl('./jsonLogs/apache.json','./jsonLogs/countRefer.json', 'url');
 });
+=======
+const express = require('express');
+const router = express.Router();
+
+router.use('/webLogs', require('./webLogs'));
+// router.use('/dbLogs', require('/dbLogs'));
+// router.use('/sysLogs', require('sysLogs'))
+
+>>>>>>> 88bac9d98a18569e82fc7e3765d6e2636e12b90e
 
 =======
 const express = require('express');
