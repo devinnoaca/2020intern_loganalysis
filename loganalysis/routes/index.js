@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 var express = require('express');
 var router = express.Router();
 const logParer = require('../logic/webLog/logParser.js');
@@ -16,4 +17,12 @@ router.get('/', function(req, res, next) {
   countObject.countUrl('./jsonLogs/apache.json','./jsonLogs/countRefer.json', 'url');
 });
 
+=======
+const express = require('express');
+const router = express.Router();
+
+router.use('/webLogs', require('./webLogs'));
+// router.use('/dbLogs', require('/dbLogs'));
+// router.use('/sysLogs', require('sysLogs'))
+>>>>>>> Stashed changes
 module.exports = router;
