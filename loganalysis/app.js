@@ -4,18 +4,7 @@ const path = require('path');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
-=======
 const indexRouter = require('./routes/index');
->>>>>>> Stashed changes
-=======
-const indexRouter = require('./routes/index');
-const usersRouter = require('./routes/users');
->>>>>>> 88bac9d98a18569e82fc7e3765d6e2636e12b90e
-
 const app = express();
 
 // view engine setup
@@ -27,21 +16,12 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
+
 //staic 경로 설정
 app.use(express.static(path.join(__dirname, 'logs')));
 app.use(express.static(path.join(__dirname, 'jsonLogs')));
 app.use(express.static(path.join(__dirname, 'views')));
 
->>>>>>> Stashed changes
-=======
-//staic 경로 설정
-app.use(express.static(path.join(__dirname, 'logs')));
-app.use(express.static(path.join(__dirname, 'jsonLogs')));
-
->>>>>>> 88bac9d98a18569e82fc7e3765d6e2636e12b90e
 
 app.use('/', indexRouter);
 
