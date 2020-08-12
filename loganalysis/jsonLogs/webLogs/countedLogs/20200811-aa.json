@@ -1,0 +1,2610 @@
+[
+    {
+        "refer": "/",
+        "count": 1298
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-puppetconf-2012/\"",
+        "count": 576
+    },
+    {
+        "refer": "http://www.google.com/bot.html)\"",
+        "count": 518
+    },
+    {
+        "refer": "http://feedparser.org/\"",
+        "count": 364
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-scale11x/\"",
+        "count": 345
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/xdotool/\"",
+        "count": 309
+    },
+    {
+        "refer": "http://www.semicomplete.com/style2.css\"",
+        "count": 200
+    },
+    {
+        "refer": "http://www.semicomplete.com/\"",
+        "count": 192
+    },
+    {
+        "refer": "http://semicomplete.com/\"",
+        "count": 152
+    },
+    {
+        "refer": "http://www.semicomplete.com/articles/dynamic-dns-with-dhcp/\"",
+        "count": 149
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-monitorama-2013/\"",
+        "count": 122
+    },
+    {
+        "refer": "http://search.msn.com/msnbot.htm)\"",
+        "count": 118
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/puppet?flav=rss20\"",
+        "count": 115
+    },
+    {
+        "refer": "http://www.FeedBurner.com)\"",
+        "count": 108
+    },
+    {
+        "refer": "http://help.yahoo.com/help/us/ysearch/slurp)\"",
+        "count": 106
+    },
+    {
+        "refer": "https://www.google.com/\"",
+        "count": 104
+    },
+    {
+        "refer": "http://www.google.com/feedfetcher.html;",
+        "count": 102
+    },
+    {
+        "refer": "http://yandex.com/bots)\"",
+        "count": 86
+    },
+    {
+        "refer": "http://tt-rss.org/)\"",
+        "count": 83
+    },
+    {
+        "refer": "http://www.baidu.com/search/spider.html)\"",
+        "count": 82
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-metrics-sf-2012.10/\"",
+        "count": 79
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/year%20review\"",
+        "count": 77
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-1/\"",
+        "count": 75
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/ssl-latency.html\"",
+        "count": 68
+    },
+    {
+        "refer": "http://opscode.com)\"",
+        "count": 61
+    },
+    {
+        "refer": "http://www.bing.com/bingbot.htm)\"",
+        "count": 58
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-puppetconf-2013/\"",
+        "count": 52
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/\"",
+        "count": 50
+    },
+    {
+        "refer": "http://semicomplete.com/files/logstash/\"",
+        "count": 41
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/logstash-preso-1.0/\"",
+        "count": 40
+    },
+    {
+        "refer": "http://www.majestic12.co.uk/bot.php?+)\"",
+        "count": 39
+    },
+    {
+        "refer": "http://www.exabot.com/go/robot)\"",
+        "count": 39
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/keynav/\"",
+        "count": 38
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/\"",
+        "count": 36
+    },
+    {
+        "refer": "http://ahrefs.com/robot/)\"",
+        "count": 34
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/debugging-java-performance.html\"",
+        "count": 30
+    },
+    {
+        "refer": "http://www.semicomplete.com/articles/ppp-over-ssh/\"",
+        "count": 27
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/unix-basics/\"",
+        "count": 27
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/linux\"",
+        "count": 26
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/jquery%20mobile\"",
+        "count": 26
+    },
+    {
+        "refer": "http://www.semicomplete.com/articles/ssh-security/\"",
+        "count": 25
+    },
+    {
+        "refer": "http://semicomplete.com/blog/geekery/xvfb-firefox.html\"",
+        "count": 24
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/xvfb-firefox.html\"",
+        "count": 24
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-intro/\"",
+        "count": 24
+    },
+    {
+        "refer": "https://www.google.co.uk/\"",
+        "count": 23
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-provops/\"",
+        "count": 23
+    },
+    {
+        "refer": "http://go.mail.ru/help/robots)\"",
+        "count": 21
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/tabs.css\"",
+        "count": 21
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/\"",
+        "count": 21
+    },
+    {
+        "refer": "http://s-chassis.co.nz/viewtopic.php?f=16&t=9265&start=200\"",
+        "count": 20
+    },
+    {
+        "refer": "http://www.sogou.com/docs/help/webmasters.htm#07)\"",
+        "count": 18
+    },
+    {
+        "refer": "http://logstash.net/docs/1.3.3/learn\"",
+        "count": 18
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CE8QFjAE&url=http%3A%2F%2Fsemicomplete.com%2Fimages%2Flogstash_OSCON.pdf&ei=7eIAU4fJJeGm0QXzwYCACA&usg=AFQjCNF2ikX71TvpVxHLkIi36cWJowYlNA&bvm=bv.61535280,d.d2k\"",
+        "count": 17
+    },
+    {
+        "refer": "http://www.s-chassis.co.nz/viewtopic.php?f=16&t=9265&start=200\"",
+        "count": 17
+    },
+    {
+        "refer": "http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0CHMQFjAJ&url=http%3A%2F%2Fsemicomplete.com%2Fimages%2Flogstash_OSCON.pdf&ei=JAoCU8TzBqSY0AWOn4CoAw&usg=AFQjCNF2ikX71TvpVxHLkIi36cWJowYlNA&bvm=bv.61535280,d.d2k\"",
+        "count": 17
+    },
+    {
+        "refer": "http://siteexplorer.info/)\"",
+        "count": 17
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/xdo_8h.html\"",
+        "count": 16
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/mpi/\"",
+        "count": 16
+    },
+    {
+        "refer": "https://www.google.fr/\"",
+        "count": 14
+    },
+    {
+        "refer": "http://flipboard.com/browserproxy)\"",
+        "count": 14
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/vim/\"",
+        "count": 14
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/tools\"",
+        "count": 14
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/deb\"",
+        "count": 14
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/C\"",
+        "count": 13
+    },
+    {
+        "refer": "https://www.google.de/\"",
+        "count": 13
+    },
+    {
+        "refer": "https://www.google.co.in/\"",
+        "count": 13
+    },
+    {
+        "refer": "http://tuxradar.com/content/xdotool-script-your-mouse\"",
+        "count": 12
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/logstash-hmmm/\"",
+        "count": 12
+    },
+    {
+        "refer": "http://www.semicomplete.com/about/\"",
+        "count": 12
+    },
+    {
+        "refer": "http://www.facebook.com/externalhit_uatext.php)\"",
+        "count": 11
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/xdotool/xdotool.xhtml\"",
+        "count": 11
+    },
+    {
+        "refer": "http://en.wikipedia.org/wiki/Xvfb\"",
+        "count": 10
+    },
+    {
+        "refer": "http://spinn3r.com/robot)",
+        "count": 10
+    },
+    {
+        "refer": "http://www.livejournal.com/users/semicomplete_rs/;",
+        "count": 10
+    },
+    {
+        "refer": "http://kufli.blogspot.com/2013/07/log-analysis-using-logstash.html\"",
+        "count": 10
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/headless-wrapper-for-ephemeral-xservers.html\"",
+        "count": 10
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/xsendevent-xdotool-and-ld_preload.html\"",
+        "count": 9
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/xdotool\"",
+        "count": 9
+    },
+    {
+        "refer": "http://www.livejournal.com/users/cshpsionic/;",
+        "count": 9
+    },
+    {
+        "refer": "https://www.google.com.br/\"",
+        "count": 9
+    },
+    {
+        "refer": "http://liferea.sf.net/)\"",
+        "count": 9
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/projects/xdotool/\"",
+        "count": 9
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/disabling-battery-in-ubuntu-vms.html\"",
+        "count": 9
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/rrdtool-for-the-win.html\"",
+        "count": 9
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/puppet-nodeless-configuration\"",
+        "count": 9
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-puppetconf-2012/css/main.css\"",
+        "count": 9
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/mpi/\"",
+        "count": 9
+    },
+    {
+        "refer": "http://www.feedly.com/fetcher.html;",
+        "count": 8
+    },
+    {
+        "refer": "http://semicomplete.com/blog/geekery/headless-wrapper-for-ephemeral-xservers.html\"",
+        "count": 8
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/bypassing-captive-portals.html\"",
+        "count": 8
+    },
+    {
+        "refer": "http://semicomplete.com/files/xdotool/docs/html/xdo_8h.html\"",
+        "count": 8
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/annotated.html\"",
+        "count": 8
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/\"",
+        "count": 8
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/ec2-reserved-vs-ondemand.html\"",
+        "count": 8
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/X11\"",
+        "count": 7
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/puppet-manage-homedirectory-contents.html\"",
+        "count": 7
+    },
+    {
+        "refer": "http://www.brandwatch.net)\"",
+        "count": 7
+    },
+    {
+        "refer": "http://www.picsearch.com/bot.html)\"",
+        "count": 7
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/logstash\"",
+        "count": 7
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/vim/\"",
+        "count": 7
+    },
+    {
+        "refer": "https://www.google.se/\"",
+        "count": 7
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/grok-pattern-autodiscovery.html\"",
+        "count": 7
+    },
+    {
+        "refer": "http://www.semicomplete.com/?page=4\"",
+        "count": 7
+    },
+    {
+        "refer": "http://r.duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F\"",
+        "count": 6
+    },
+    {
+        "refer": "https://www.google.nl/\"",
+        "count": 6
+    },
+    {
+        "refer": "http://www.semicomplete.com/resume.xml\"",
+        "count": 6
+    },
+    {
+        "refer": "http://www.semicomplete.com/misc/sample.log\"",
+        "count": 6
+    },
+    {
+        "refer": "http://logstash.net/docs/1.3.3/life-of-an-event\"",
+        "count": 6
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/release\"",
+        "count": 6
+    },
+    {
+        "refer": "http://semicomplete.com/articles/week-of-unix-tools/\"",
+        "count": 6
+    },
+    {
+        "refer": "http://semicomplete.com/files/xdotool/docs/html/tabs.css\"",
+        "count": 6
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/pull-album-covers-from-amazon.html\"",
+        "count": 6
+    },
+    {
+        "refer": "http://www.semicomplete.com/scripts/\"",
+        "count": 5
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/puppet-exported-resource-expiration.html\"",
+        "count": 5
+    },
+    {
+        "refer": "https://www.google.ru/\"",
+        "count": 5
+    },
+    {
+        "refer": "http://kufli.blogspot.de/2013/07/log-analysis-using-logstash.html\"",
+        "count": 5
+    },
+    {
+        "refer": "https://www.google.cz/\"",
+        "count": 5
+    },
+    {
+        "refer": "https://www.google.com.hk/\"",
+        "count": 5
+    },
+    {
+        "refer": "http://semicomplete.com/style2.css\"",
+        "count": 5
+    },
+    {
+        "refer": "http://s-chassis.co.nz/viewtopic.php?f=16&t=9265&view=unread\"",
+        "count": 5
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/xpathtool/\"",
+        "count": 4
+    },
+    {
+        "refer": "https://www.google.at/\"",
+        "count": 4
+    },
+    {
+        "refer": "http://unix.stackexchange.com/questions/14879/how-to-inject-keystrokes-via-a-shell-script\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/squid\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/smart\"",
+        "count": 4
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/14656615/xlib-xsendevent-click-event-do-not-work-inside-of-some-windows-on-ubuntu-12-04\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.linux.org.ru/forum/general/8028503\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.google.com/blank.html\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/jquery-mobile-full-height-content.html\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/python-packages-as-rpm.html\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/pyblosxom-mdate-vim-hack.html\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/?page=5\"",
+        "count": 4
+    },
+    {
+        "refer": "https://www.google.it/\"",
+        "count": 4
+    },
+    {
+        "refer": "https://www.google.es/\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/zsh\"",
+        "count": 4
+    },
+    {
+        "refer": "http://semicomplete.com/files/\"",
+        "count": 4
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/fpm.html\"",
+        "count": 4
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/3983946/get-active-window-title-in-x\"",
+        "count": 4
+    },
+    {
+        "refer": "http://suckless.org/rocks\"",
+        "count": 3
+    },
+    {
+        "refer": "http://ubuntuforums.org/showthread.php?t=2003644\"",
+        "count": 3
+    },
+    {
+        "refer": "http://danceuniverse.ru/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.logstash.net/docs/1.3.3/learn\"",
+        "count": 3
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/3585871/how-can-i-get-the-current-mouse-pointer-position-co-ordinates-in-x\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/screen-solaris-terminfo.html\"",
+        "count": 3
+    },
+    {
+        "refer": "http://ru.drugspowerstore.com/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.archive.org/details/archive.org_bot)\"",
+        "count": 3
+    },
+    {
+        "refer": "http://avtoads.net/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/articles/week-of-unix-tools/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/articles/week-of-unix-tools/day-1-sed.html\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/articles/efficiency/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/rdoc\"",
+        "count": 3
+    },
+    {
+        "refer": "https://www.google.pl/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/xsendevent\"",
+        "count": 3
+    },
+    {
+        "refer": "http://keepass.info/help/v2/setup.html\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog\"",
+        "count": 3
+    },
+    {
+        "refer": "http://blackwitchcraft.ru/\"",
+        "count": 3
+    },
+    {
+        "refer": "https://www.google.ca/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://kherson-apartments.ru/article_2.php\"",
+        "count": 3
+    },
+    {
+        "refer": "http://blog.float.tw/2012/06/xdotool.html\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.linuxquestions.org/questions/programming-9/simulating-a-mouse-click-594576/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCYQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=90oBU-BDsLjIAbeugeAC&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.aWc\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/rants\"",
+        "count": 3
+    },
+    {
+        "refer": "http://sofit-dmd.ru/news.html?id=5\"",
+        "count": 3
+    },
+    {
+        "refer": "https://duckduckgo.com/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://xn--90adhhccf5aeewt7j.xn--p1ai/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/solaris-10-sshd-publickey-solution.html\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/files.html\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.am-se.com/\"",
+        "count": 3
+    },
+    {
+        "refer": "https://www.google.ba/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://znakomstvaonlain.ru/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.completefusion.com\"",
+        "count": 3
+    },
+    {
+        "refer": "http://\\xe4\\xe5\\xe3\\xf2\\xff\\xf0\\xed\\xee\\xe5-\\xec\\xfb\\xeb\\xee.\\xf0\\xf4/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://mishura-optom.ru/novosti/78-ukrasheniya-zhilya-s-pomoshchyu-novogodnej-mishury-chast-1\"",
+        "count": 3
+    },
+    {
+        "refer": "http://zolotoy-lis.ru/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/grok?page=3\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.alexa.com/site/help/webmasters;",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/wmi\"",
+        "count": 3
+    },
+    {
+        "refer": "https://www.google.fi/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/\"",
+        "count": 3
+    },
+    {
+        "refer": "http://www.mojeek.com/bot.html)\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com.hk/blank.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://unix.stackexchange.com/questions/87831/how-to-send-keystrokes-f5-from-terminal-to-a-process\"",
+        "count": 2
+    },
+    {
+        "refer": "http://semicomplete.com/?page=2\"",
+        "count": 2
+    },
+    {
+        "refer": "http://semicomplete.com/articles/arp-security/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://search.daum.net/\"",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.no/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/url?q=http%3A%2F%2Fsemicomplete.com%2Fpresentations%2Fpuppet-at-loggly%2Fpuppet-at-loggly.pdf.html&sa=D&sntz=1&usg=AFQjCNEjDDmsmUwFNxILXsRlXlz0U6rP5Q\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/imgres?imgurl=http://www.semicomplete.com/images/googledotcom.png&imgrefurl=http://www.semicomplete.com/blog/tags/X11&usg=__PeEZfYbktwtGJ92coZl9dbADxrY=&h=768&w=1024&sz=65&hl=en&start=4&zoom=1&tbnid=tX0WOQ4WqLUE5M:&tbnh=113&tbnw=150&ei=7fMAU6m2A4b_rAfopICACw&prev=/search%3Fq%3Dhttp.//www..google%26client%3Dms-samsung%26sa%3DX%26channel%3Dmm%26ie%3DUTF-8%26tbm%3Disch%26prmd%3Divnsza&sa=X&ved=0CDMQrQMwAw&ptbm=isch&q=http.//www..google\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/articles/dynamic-dns-with-dhcp/main.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/keynav/keynav.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/articles/openldap-with-saslauthd/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/fex/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/articles/week-of-unix-tools/day-2-cut-and-paste.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/grok?page=2\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/session-balancing-across-tomcats-with-apache.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.fr/imgres?safe=active&rlz=1C1GGGE_frFR372&espvd=210&es_sm=122&biw=1680&bih=925&tbm=isch&tbnid=R12t1E-Ol4AzhM%3A&imgrefurl=http%3A%2F%2Fwww.semicomplete.com%2Fpresentations%2Flogstash-preso-1.0%2F&docid=IhBOsaO4IbjvoM&imgurl=http%3A%2F%2Fwww.semicomplete.com%2Fpresentations%2Flogstash-preso-1.0%2Fimages%2Fahhh___rage_face_by_samusmmx-d5g5zap.png&w=576&h=570&ei=exwBU6HBFKbB0QWPpoDYDg&zoom=1&iact=rc&dur=1114&page=1&start=0&ndsp=46&ved=0CIsBEK0DMBI\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/shebang-fix.html\"",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.hr/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/1029027/x11-move-an-existing-window-via-command-line\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/xdo.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/6287926/jps-not-showing-tomcat-process\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/vim/+++++++++++++++++++++++++++++++++++Result:+%E8%F1%EF%EE%EB%FC%E7%EE%E2%E0%ED+%ED%E8%EA%ED%E5%E9%EC+%22newkoversjup%22;+ReCaptcha+%E4%E5%F8%E8%F4%F0%EE%E2%E0%ED%E0;+%28JS%29;+%E7%E0%F0%E5%E3%E8%F1%F2%F0%E8%F0%EE%E2%E0%EB%E8%F1%FC;+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8;+Result:+%EE%F8%E8%E1%EA%E0:+%22i+never+really+liked+c%27s+assert%28%29+feature.+if+an+assertion+is+violated,+it%27lltell+you+what+assertion+failed+but+completely+lacks+any+context:%22;+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8;\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/projects/grok/main.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/16122196/getting-mouseclick-coordinates-with-xlib\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/munin\"",
+        "count": 2
+    },
+    {
+        "refer": "http://manpages.ubuntu.com/manpages/lucid/man1/xdotool.1.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.co.th/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&cad=rja&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fssh-security%2F&ei=_m8BU6K1AsSeiQeLwYHgBg&usg=AFQjCNHWyA_svkWgk70ovEbZidQhlAC84w&bvm=bv.61535280,d.aGc\"",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.co.th/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/imgres?tbm=isch&tbnid=tX0WOQ4WqLUE5M%3A&imgrefurl=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2FX11&docid=xGrm1wO4I4EDhM&imgurl=http%3A%2F%2Fwww.semicomplete.com%2Fimages%2Fgoogledotcom.png&w=1024&h=768&ei=un0BU-SeGMiThgfhoYCYBw&zoom=1&iact=rc&dur=250&page=1&start=0&ndsp=18&ved=0CFoQrQMwAg\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0CEkQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Farp-security%2F&ei=F4ABU7mkEcyFrQepwoCwDQ&usg=AFQjCNFVozI3iYF5cHH9Zqd6bihUHsnz5g\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/?page=2\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.s-chassis.co.nz/viewtopic.php?f=16&t=9265&view=unread\"",
+        "count": 2
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/17083473/phonegap-get-screen-height-of-working-area-screen-less-the-status-bar\"",
+        "count": 2
+    },
+    {
+        "refer": "http://logstash.net/docs/1.1.0/tutorials/getting-started-centralized\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/CEE-logging-for-profit.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CFQQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=5asBU4ngCuuA7QbWxIDYBw&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=mSyNHHES5COiDpakgbFJ2w&bvm=bv.61535280,d.ZGU\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/logstash-ready-for-use.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/?C=M;O=D\"",
+        "count": 2
+    },
+    {
+        "refer": "http://t.co/P6vw4TTqWs\"",
+        "count": 2
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-monitorama-2013/css/fonts/OpenSans.css\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/functions.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/globals.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/url?q=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fpuppet-nodeless-configuration&sa=D&sntz=1&usg=AFQjCNGgwd3fe1S5l1QO4JL2QXkdKP66Qw\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com.vn/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CC4QFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=KMcBU93RLYa6iQeYuoG4BA&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.aGc\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/man/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/man/man3/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/devopsdays\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.changedetection.com/bot.html",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.by/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/search?client=ms-android-verizon&biw=640&bih=360&site=webhp&tbm=isch&sa=1&ei=-t4BU8CnEMaIygHR3IDICQ&q=rageface&oq=rageface&gs_l=mobile-gws-serp.3..41j0j0i10j0l2.81967.95841.0.96405.30.17.0.1.1.3.227.1935.0j10j1.11.0.crnk_timecombined...0...1.1.35.mobile-gws-serp..21.9.1556.QS7ylsDy_7Q\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/verbosity\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.lv/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=eOIBU8_rHIKI5ATghYCYAw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.bGE\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/url?q=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&sa=D&sntz=1&usg=AFQjCNFQHZQP8ZGD8uew9LR_NaM7OppNBg\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.linuxquestions.org/questions/general-10/keynav-mouseless-navigation-for-x11-545038/\"",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.com.au/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/show-headers-in-get-request.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.alittlemadness.com/2008/03/05/running-selenium-headless/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://community.spiceworks.com/topic/269270-how-can-i-pull-cpu-temperature-through-powershell-scripting\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/web%20scraping\"",
+        "count": 2
+    },
+    {
+        "refer": "http://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=http://www.semicomplete.com/articles/dynamic-dns-with-dhcp/&usg=ALkJrhjtYYl2KCbWUWlOL4clFpDKlc8nmw\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/newpsm/\"",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.com.ua/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com/url?q=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fdebugging-java-performance.html&sa=D&sntz=1&usg=AFQjCNFgR7aFxXcrj6-7fq5tHZbG_NNoKg\"",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.co.il/\"",
+        "count": 2
+    },
+    {
+        "refer": "https://www.google.com.ar/\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEkQFjAD&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=UCACU--1BaXmywOn14KQDw&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGQ\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/pylons\"",
+        "count": 2
+    },
+    {
+        "refer": "http://semicomplete.com/images/logstash_OSCON.pdf\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/python-dict-merging.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/14181488/simulating-key-press-using-bash\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/tracking-ssh-bots.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/haml\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.es/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CDIQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fppp-over-ssh%2F&ei=YzsCU4oczsnQBfqSgZgH&usg=AFQjCNHJ26OprxM_R-TJv_w97bzhN-UEag&sig2=MWtq9NsXGxpCnZVF3uKcHw&bvm=bv.61535280,d.d2k\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.com.ar/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDoQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=aD4CU_ezDKyO1AHQwICoAg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=Ha9w0FWkUYWoe9GKnQ24Gw&bvm=bv.61535280,d.dmQ\"",
+        "count": 2
+    },
+    {
+        "refer": "http://code.google.com/appengine;",
+        "count": 2
+    },
+    {
+        "refer": "http://www.easou.com/search/spider.html)\"",
+        "count": 2
+    },
+    {
+        "refer": "http://askubuntu.com/questions/2316/how-can-i-map-a-character-to-a-key-combination\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/gzip\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/python-method-call-wrapper.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://support.embed.ly/)\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/xdotool/xdotool.xhtml#sendevent_notes\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/articles/week-of-unix-tools/day-3-awk.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/xdotool/#idp17232\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/articles/week-of-unix-tools/day-5-xargs.html\"",
+        "count": 2
+    },
+    {
+        "refer": "http://www.google.ro/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCwQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=W88AU4n9HOq60QXbv4GwBg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&sqi=2&ved=0CFYQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=6cwAU_bRHo6urAeI0YD4Ag&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=https//:google.com&source=lnms&tbm=isch&sa=X&ei=4-r8UvDrKZOgkQe7x4CICw&ved=0CAkQ_AUoAA&biw=320&bih=441\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0CE4QFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=ZdEAU9mGGuWX1AW09IDoBw&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.haskell.org/haskellwiki/Xmonad/Frequently_asked_questions\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fssh-security%2F&ei=vdMAU8LgLcPorQfR9oHwDQ&usg=AFQjCNHWyA_svkWgk70ovEbZidQhlAC84w&bvm=bv.61535280,d.bmk&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDwQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=zNMAU5qaEcantAbD3YHIAQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.Yms&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.co.kr/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=4dYAU7rhKoW9oQTa74DwAg&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&sig2=pjpf_XHbEOyPPs-wsEhbMA&bvm=bv.61535280,d.cGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?q=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fxsendevent-xdotool-and-ld_preload.html&sa=D&sntz=1&usg=AFQjCNE0UZAUuE3sP-0T7iwCaHL4h23xiA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.kh/search?q=www.google.com&client=ms-android-samsung&hl=en-GB&source=android-search-app&v=133247963&source=lnms&tbm=isch&sa=X&ei=J9gAU7nQO4eOlQXyhIHgBw&ved=0CAkQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC4QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=rNgAU_6xDIOn4gS7yIGQBg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=87asLx5_FCyjuIIp39K-SA&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fi/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDkQFjAD&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=iNkAU7LRAsbhywOt2YGICw&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.hk/url?sa=t&rct=j&q=the+logstash+book+pdf&source=web&cd=9&ved=0CGEQFjAI&url=%68%74%74%70%3a%2f%2f%73%65%6d%69%63%6f%6d%70%6c%65%74%65%2e%63%6f%6d%2f%69%6d%61%67%65%73%2f%6c%6f%67%73%74%61%73%68%5f%4f%53%43%4f%4e%2e%70%64%66&ei=5tsAU_f5NPGYiAffqYCYAQ&usg=AFQjCNF2ikX71TvpVxHLkIi36cWJowYlNA\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.com.sg/\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.com/search?q=proxy+50na50\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=google.com/&client=ms-android-samsung&hl=ar&gl=ae&source=android-browser-type&source=lnms&tbm=isch&sa=X&ei=7t8AU5jDEIOt0QXxgoHACg&ved=0CAgQ_AUoAA&biw=320&bih=401&dpr=0.75\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.tr/search?q=.+www.google.com&client=ms-android-samsung&hl=ar&v=141400000&biw=320&bih=508&tbm=isch&source=lnms&sa=X&ei=3uQAU_rAKKX9ywOynoC4BA&ved=0CAgQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDIQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=s-cAU7itM4z2oAT5w4LgAg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=SHjt53FTwab_lZ2-SqiQcw\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CFwQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=N-kAU7j_BOnmywOc44F4&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&sig2=U7NI72Zc1R8jd6Wt9E4SGw&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://images.google.com/images?q=http://%60www.google.com/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&cad=rja&ved=0CEgQFjAGOAo&url=http%3A%2F%2Fsemicomplete.com%2Fimages%2Flogstash_OSCON.pdf&ei=WOsAU-DqFciHrQf00oC4Ag&usg=AFQjCNF2ikX71TvpVxHLkIi36cWJowYlNA&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&client=ms-android-samsung&hl=fr&source=android-search-app&v=133247963&source=lnms&tbm=isch&sa=X&ei=sesAU-bGFerN4QTxmoC4Aw&ved=0CAkQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://t.co/K3mfESnO6G\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fi/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=Iu4AU6O_Deu7ygPUv4KwDQ&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&ved=0CGoQFjAJ&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=vdwAU7CbAcalrQewlYCQCA&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fi/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=Pe4AU6OQIOj9ygPNm4GICg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&client=ms-android-americamovil-mx&hl=es&source=android-search-app&v=133247963&source=lnms&tbm=isch&sa=X&ei=s-4AU8SCAcfuyQGgkIG4Aw&ved=0CAkQ_AUoAA&biw=320&bih=455\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ee/search?q=selenium&source=lnms&tbm=isch&sa=X&ei=d_AAU5fBJM3n7AaX-4CICQ&ved=0CAcQ_AUoAA&biw=1280&bih=800\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=rageface&oe=UTF-8&hl=en&client=safari&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi&ei=I1YAU8nrHpXkoASEqoHgCA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCYQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=lvIAU9aCH6PhygHGr4CIAg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=q_MAU4TDCImWtQa0toHACw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=SPUAU6m-CseekQeS94GoCA&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=hbhV_ZmHduuSVvS-Rkqrdw&bvm=bv.61535280,d.eW0&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/xdotool/+++++++++++++++++++++Result:+chosen+nickname+%22awarovadoms%22;sent;\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/puppet-nodeless-configuration.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=hffp+www+google+com&client=ms-android-tmobile-gr&hl=el&source=android-launcher-widget&v=133247963&source=lnms&tbm=isch&sa=X&ei=EvsAU6m3A5KShQeo-oDICA&ved=0CAgQ_AUoAA&biw=320&bih=455\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CDgQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fopenldap-with-saslauthd%2F&ei=kTzrUrSrDuWZ4gSkxoDADQ&usg=AFQjCNHLA04dGfdlvMGfAcswvXWKZkRw7Q&bvm=bv.60444564,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDwQ0gIoAjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml%23keyboard_commands&ei=m_0AU5m1G-OYyAHrn4DADw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=FdAqSVoHRs6Nbl6wiN9xtQ&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&ved=0CHMQFjAI&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=owIBU8yHH8zEtAbTx4CwDw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.Yms&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://superuser.com/questions/355151/is-it-possible-to-remap-the-back-forward-keys-of-a-thinkpad-usb-keyboard-on-linu\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/grok-predicates-perl-vs-cplusplus.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/web\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com//\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/vpn-troubles.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://genus-industri.us/wp/2011/09/10/a-newbies-guide-to-multiboxing/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CCoQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=4AwBU5eoDM3GrAf7_4GQCA&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&sqi=2&ved=0CDMQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=hA8BU9yvNomQhQfGzoHQBQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=LhEBU6DpHcvwhQeNg4HQAg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.ZG4\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CC8QFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fdisabling-battery-in-ubuntu-vms.html&ei=0REBU73sEeLF0QW9m4GgBw&usg=AFQjCNGCtI7nRwy4M6vo_Nl_oqhG1IsXZg&sig2=ZBSTZkjn-7c6xs00u6dyow&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=sBIBU4e6MMKAhAf3woCgAw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.ZG4\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.noah.org/wiki/LD_PRELOAD_notes\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/liboverride/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/security/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC4QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=TRcBU6KzELTw0gXwj4H4BQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&client=ms-android-sonyericsson&hl=fa&source=android-search-app&v=141400000&source=lnms&tbm=isch&sa=X&ei=VBYBU-isLojbtAaQmoGwBA&ved=0CAgQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.gt/search?q=www.google.com&client=ms-unknown&hl=es&v=141338691&source=lnms&tbm=isch&sa=X&ei=lxABU_WJGoePkAfD04GwCg&ved=0CAgQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://codebright.wordpress.com/2010/06/27/sendkeys-in-linux/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?q=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml%23keyboard_commands&sa=D&sntz=1&usg=AFQjCNE99PSLvWBIRez711_mR6XayHJjfQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=qxgBU5zHL9O50AGn2IHgAw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.dmQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://ijavascript.cn/jquery/jquery-plugin-list-470.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/logstash-preso-1.0/images/ahhh___rage_face_by_samusmmx-d5g5zap.png\"",
+        "count": 1
+    },
+    {
+        "refer": "http://pear.php.net/package/http_request2)",
+        "count": 1
+    },
+    {
+        "refer": "http://www.murga-linux.com/puppy/viewtopic.php?p=217767\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.co.mz/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=3&ved=0CEIQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=YB4BU7a6BubbyQGRn4CoBQ&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=m8HRGxJmu20TPeLwKzjAow&bvm=bv.61535280,d.aWM\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/wifi\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?redir_esc=&hl=en&client=tablet-unknown&source=android-search-app&v=200400000&qsubts=1392582678974&q=google.com.&tbm=isch&safe=images&biw=800&bih=358&aqs=.&oq=google.com.&dbl=1&noj=1\"",
+        "count": 1
+    },
+    {
+        "refer": "http://semicomplete.com/articles/ppp-over-ssh/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fppp-over-ssh%2F&ei=xCQBU-vNMOTB0gWUiIGAAQ&usg=AFQjCNHJ26OprxM_R-TJv_w97bzhN-UEag&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=xdotool%20command%20mac&source=web&cd=2&ved=0CDMQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=yCYBU-DdGcqThQeOhYCYDQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.ZG4\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEgQFjAD&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=JigBU4HWN47T7AaFuYGwDA&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=cUPbJkOfAnAM_XZeN9dmBA&bvm=bv.61535280,d.ZGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.dz/search?q=www.google.com&client=ms-android-lge&hl=fr&source=android-search-app&v=133247963&source=lnms&tbm=isch&sa=X&ei=0CYBU4f1DcKjhgfq0YDYCQ&ved=0CAkQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/5194484/handling-perl-command-line-arguments-with-spaces-from-a-bash-script\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDgQ0gIoAzAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F%23idp9392&ei=PikBU7GtE-r90gHm2oHoBQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.dmQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com+images&client=ms-android-samsung&hl=fa&source=android-browser-suggest&v=200400000&source=lnms&tbm=isch&sa=X&ei=VigBU-6HII3CtAbHvIDgBg&ved=0CAgQ_AUoADgK\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fppp-over-ssh%2F&ei=CisBU5rfNoeh7Aa144GYCw&usg=AFQjCNHJ26OprxM_R-TJv_w97bzhN-UEag&bvm=bv.61535280,d.ZGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/13041511/simulating-mouse-events-and-keyboard-events-c-linux\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=aSwBU66DAcLC7AbagoCoCQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=LatO5dZSPSGc_gTaNh8FHg&bvm=bv.61535280,d.ZGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.es/search?q=xdotool+type+speed&btnG=Buscar&oe=utf-8&rls=com.ubuntu%3Aes-ES%3Aunofficial&client=firefox-a&gfe_rd=cr\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.ar/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0CFwQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fjquery%2520mobile&ei=1jMBU5G5N4TuyAHvj4FI&usg=AFQjCNHmLYX9aoOZ44fBHqIez5bhZjlmiQ&sig2=aWrHrfL7HucJvUauMaiK-g&bvm=bv.61535280,d.aWc&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.experts-exchange.com/Programming/Languages/Scripting/Python/Q_26206381.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.bing.com/search?q=xdotool&form=OPRTSD&pc=OPER\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=what%20is%20affirmtrust%20premium%20on%20blackberry&source=web&cd=10&ved=0CEIQFjAJ&url=http%3A%2F%2Fsemicomplete.com%2Ffiles%2Frubygems615%2Fjava-ssl-debug-last-request.txt&ei=2jUBU8v5N4qTyQG9goEY&usg=AFQjCNG33bG6YscoCDwU6Y_kt5UTGYCFHA&bvm=bv.61535280,d.b2I\"",
+        "count": 1
+    },
+    {
+        "refer": "http://r.duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/jquery-interface-/p%20ppuffer.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/7023942/running-chrome-webdriver-on-a-linux-server-with-no-display\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&ved=0CDoQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=_TsBU52uHJG8kQeZ7YG4Cg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.eW0\"",
+        "count": 1
+    },
+    {
+        "refer": "http://pandce.proboards.com/thread/241827/having-office-space-moment\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDYQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=7j0BU-3qL4nB0gWP2YHQDg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.d2k&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CEQQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=7j0BU-3qL4nB0gWP2YHQDg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.d2k&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0CHMQFjAJ&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=OT4BU5xphMmIB7XCgVg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=mrHeKljvPGySBsAkiK8tdg&bvm=bv.61535280,d.aGc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://blog.andreas-haerter.com/2012/02/05/how-to-start-puppet-system-config-links-resources-tutorials\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.ro/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=rage+face&tbm=isch&ei=QEEBU7uhCcHayAGgsICQBg&start=20&sa=N\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.raspberrypi-spanish.es/foro/viewtopic.php?f=9&t=15\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fdeb&ei=YUUBU7_QNsqAhAe-y4HIBA&usg=AFQjCNHupsJ49QDhyWDEfoWvxMYKgXNwZg\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.mx/search?q=wwwgoogle.com&client=ms-android-americamovil-mx&hl=es&source=android-search-app&v=133247963&source=lnms&tbm=isch&sa=X&ei=d0UBU7abOsyGogTerIKQDA&ved=0CAkQ_AUoAA&biw=320&bih=455\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=rage+face&client=safari&hl=en&source=lnms&tbm=isch&sa=X&ei=DEgBU_ezMIKRygH5joCoCw&ved=0CAkQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.si/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/m?q=http%3A%2Fwww.google\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/search?q=www+google.com&client=ms-android-h3g-gb&hl=en-GB&source=android-browser-type&v=200400000&source=lnms&tbm=isch&sa=X&ei=h0sBU83kJoua7Qbw0YCQCw&ved=0CAgQ_AUoAA&biw=360&bih=567\"",
+        "count": 1
+    },
+    {
+        "refer": "http://superuser.com/questions/114564/linux-emulate-mouse-clicks-with-keyboard\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/jps-shows-nothing-useful.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=uFcBU_C8OsLNsQTxn4CABg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDAQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fmisc%2Frcfiles%2Fzshrc&ei=y1cBU4KBOcWrkgWZuYHYDw&usg=AFQjCNHmLSTRim2qFT1i8zDH22ELTygwtw&bvm=bv.61535280,d.dGI\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/misc/rcfiles/procmailrc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&client=ms-android-alcatel&hl=es&source=android-launcher-widget&v=133247963&source=lnms&tbm=isch&sa=X&ei=F1sBU7ewM8_HkAen7IH4Aw&ved=0CAgQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.mx/search?q=www.google.com&client=ms-android-americamovil-mx&hl=es&source=android-launcher-search&v=141400000&source=lnms&tbm=isch&sa=X&ei=fk8BU5_HMMrayAGT3YGoCQ&ved=0CAkQ_AUoAA&biw=360&bih=615\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0CGYQFjAF&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=4lwBU7ixHYbs0wHy6YDIDg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=9&ved=0CGEQFjAI&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=2V8BU9ujI7OMyAH5nYHgCg&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CEQQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fdeb&ei=UGMBU6zYIaW6yQPl1oDgCA&usg=AFQjCNHupsJ49QDhyWDEfoWvxMYKgXNwZg&sig2=TLhXGCYeUjmG9RYpCIu_Zg\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEcQFjAD&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=4mMBU6GHIKWYyAGS4IHwBQ&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=VtW4cHWqMhkNyWIj57HblA&bvm=bv.61535280,d.aWc&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&hl=en&source=android-unknown&source=lnms&tbm=isch&sa=X&ei=f2YBU9GFCYOklQWHmoD4CQ&ved=0CAoQ_AUoAA&biw=320&bih=508\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=fWgBU4TVHOazyAGg94CwAw&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/149274/http-vs-https-performance\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=20&ved=0CIUBEBYwCTgK&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=9WgBU4vxMZTRsATsjIH4BA&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=mGoxKIafBYH1Eib47Yq8LQ&bvm=bv.61535280,d.cWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/imgres?imgurl=http://www.semicomplete.com/images/googledotcom.png&imgrefurl=http://www.semicomplete.com/blog/geekery/xvfb-firefox.html&usg=__Hd81OLlbSuIVvLzPBN6CABGyApY=&h=768&w=1024&sz=65&hl=id&start=3&zoom=1&tbnid=tX0WOQ4WqLUE5M:&tbnh=113&tbnw=150&ei=ynABU4b8AcSX1AWwk4DABA&prev=/search%3Fq%3Dhttp://www%2Bgoogle%2Bcom%26client%3Dms-opera-mini%26sa%3DX%26channel%3Dnew%26tbm%3Disch%26prmd%3Divnsze&sa=X&ved=0CCoQrQMwAg&ptbm=isch&q=http%3A//www+google+com\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.ph/blank.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDUQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=6nQBU5j3EYHC7Aa8lIDACg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.ZGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/jquery-interface-puffer.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.sg/blank.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=eHkBU5msKuma2gWcwoDgCg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=kYnsYDkXqTv8JQjdt315OA&bvm=bv.61535280,d.b2I\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.au/blank.html\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.co.nz/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://blog.sleeplessbeastie.eu/2013/01/21/how-to-automate-mouse-and-keyboard/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/articles/arp-security/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.xiaofang.me/2012/03/07/ec2-reserved-instances-%E5%A4%A7%E9%99%8D%E4%BB%B7%E4%BA%86/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=GoMBU6LIO4ShyQOun4D4CA&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDAQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=GoMBU6LIO4ShyQOun4D4CA&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=vIMBU5r6FsOS0AWE1IDQAw&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&sig2=y5ab6iWE02_NMVte4Y75hg\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/5203419/can-i-force-a-firefox-page-refresh-from-linux-console\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?client=ms-android-americamovil-mx&hl=es&v=133247963&tbm=isch&sa=1&ei=iYQBU_mvDMidyQGylYCoDA&q=http+%2F%2Fgoogle&oq=&gs_l=mobile-gws-serp.1.0.41.22321.23291.0.25794.13.5.0.1.1.0.255.255.2-1.1.0....0...1c.1.35.mobile-gws-serp..11.2.269.CMjmxoffZ24\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=94UBU770ObGS7AbFvIGQAw&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.ZGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCYQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fdebugging-java-performance.html&ei=QIYBU9qbMoXUkwWNtYCoBw&usg=AFQjCNGldjTC7XU-SbbK7iJWBgl3lSS_qA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www+google+com+my&source=lnms&tbm=isch&sa=X&ei=4okBU8X3C8OKrQeN4IHQBw&ved=0CAgQ_AUoAA&biw=320&bih=544&dpr=1.5\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.s-chassis.co.nz/viewtopic.php?f=16&t=9265&p=224757\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CF4QFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=pYoBU9jhJcHPtAblqIHQDw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=QQ7R7yq0s5nHuUKPLuveEQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/user/register\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDoQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=IY0BU5nKMYPH7Aa_loC4Aw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.ZGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=cZABU8nwApXroASpkICADA&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=Gkp9GH13hT3n4yfztrphjg&bvm=bv.61535280,d.cGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDsQFjAD&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Frants&ei=WpABU9C8FIvEkQXimoHgBQ&usg=AFQjCNFU3PLBs-PfiAi7HFwmXqtYZxiabQ&bvm=bv.61535280,d.dGI\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=wZQBU53fE4-rkQfTv4DoBg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=F5ccUAbbUmrtvkE8SQh6AQ&bvm=bv.61535280,d.eW0\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDQQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=nZMBU46bA4uRrAfNuoCICA&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0CFwQFjAH&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=iJUBU4qNMY2MrAfrroDABA&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bmk&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=google.com&oe=UTF-8&hl=en&client=safari&gfe_rd=cr&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi&ei=wpIBU9imHsfmswa7w4D4Cw\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/109553/how-can-i-programmatically-manage-iptables-rules-on-the-fly\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/atomic-iptables-changes-and-not-dropping-packets.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=f5YBU96tMMbukQfPg4HYDg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=nwK7_nOkpZAp4VnJyynOrA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.reproductive-fitness.com/my/wwwgoogle-com.htm\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDQQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=NJcBU5iUG83okAfgwoAg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=qXJZZEUSWE09xaHWTERagQ&bvm=bv.61535280,d.eW0\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=oZcBU6o-zv-sB5rMgcgN&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&client=ms-android-sonyericsson&hl=fa&source=android-search-app&v=141400000&source=lnms&tbm=isch&sa=X&ei=HZkBU8juAsKDtAajvIGgAg&ved=0CAgQ_AUoAA&biw=320&bih=475\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.il/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CCkQFjAA&url=http%3A%2F%2Fsemicomplete.com%2Ffiles%2Flogstash%2F&ei=YpsBU4X3N4fe7Abmp4HwDw&usg=AFQjCNEM6iuqm7sxu8Xzgkypl8Z17jGTzQ&sig2=7C58qx57wlvOSs4e1C-QLg&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&ved=0CE0QFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fpython-packages-as-rpm.html&ei=m-b9Upv9A8mOrQfI9IDQBQ&usg=AFQjCNFjLzIsUiYXkWnxl0JvY_Ie1VSKVw&bvm=bv.61190604,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.oschina.net/p/logstash\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/?page=3\"",
+        "count": 1
+    },
+    {
+        "refer": "http://s-chassis.co.nz/viewtopic.php?f=16&t=9265&sid=fd882280243ebf9d43849a95fcc47814&start=200\"",
+        "count": 1
+    },
+    {
+        "refer": "http://s-chassis.co.nz/viewtopic.php?f=16&t=9265&sid=fad3ad046ddaa63e65cda6e4e0033c19&start=200\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.iq/search?q=.+www.google.com&client=ms-unknown&hl=ar&source=android-search-app&v=141400000&source=lnms&tbm=isch&sa=X&ei=aqEBU-1-wcC1BovogeAE&ved=0CAgQ_AUoAA&biw=320&bih=508\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/xboxproxy/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://s-chassis.co.nz/viewtopic.php?f=16&t=9265&p=224762&sid=4cd395a3bb9d0db66dabea1a927b4b04\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEAQFjAD&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=Z6gBU_G4Dqb7iQe-oICYAw&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&sig2=NjJ5zmH5V0aPYpWxGc_P-Q&bvm=bv.61535280,d.aGc&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.s-chassis.co.nz/viewtopic.php?f=16&t=9265&p=224692\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.kuehnel.org/bachelor.pdf\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=L6sBU5nvJomOrQf95oHgDQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.bmk&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://antonio-zabila.blogspot.com.es/2011/06/click-automaticos.html\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.co.za/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.s-chassis.co.nz/viewtopic.php?f=16&t=9265&p=224766\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCMQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=LK8BU-DOAq_n4QSAlICQDg&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&sig2=mMImdpaX0ZlbHwQj6oYtoQ&bvm=bv.61535280,d.bGE&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/comcast-dns-hijack-breaks-things.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&sqi=2&ved=0CEcQFjAF&url=http%3A%2F%2Fsemicomplete.com%2Fpresentations%2Fpuppet-at-loggly%2Fpuppet-at-loggly.pdf.html&ei=-bIBU_yrA8b8ygOHzICYBQ&usg=AFQjCNGNrd_1HxTJj9vzrdQYDKe1z1WX2A&sig2=crlHXjSwAHG15mKjCp6ojg&bvm=bv.61535280,d.bGQ&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/650223/how-to-change-focus-in-x-windows\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.gh/search?hl=en&site=webhp&tbm=isch&source=hp&ei=TbIBU8bDFOK_ygPp-YKgAQ&q=www.google.com&oq=www.&gs_l=mobile-gws-hp.1.0.0l5.93537.95992.0.116265.9.6.0.6.6.0.1965.9308.5-1j8-5.6.0....0...1c.1.35.mobile-gws-hp..3.6.3705.Ro8_qRX8ye4\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=ALgBU4DQPIi9oQT4_oC4CA&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=VxWxIwzui8Z_f38gR56WtA&bvm=bv.61535280,d.cGU\"",
+        "count": 1
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/?C=M;O=A\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=7LgBU9SeIOjhywO6_oGoBg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://s-chassis.co.nz/viewtopic.php?f=16&t=9265&sid=6bb0c8283f412381c4a4e3daa3e0d392&start=200\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=u7kBU7HvC47DkQWL3oCICw&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.dGI\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&sqi=2&ved=0CDMQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=u7kBU7HvC47DkQWL3oCICw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.nl/2013/07/log-analysis-using-logstash.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.tropicdesigns.net)\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=6&cad=rja&ved=0CEwQFjAF&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fsolaris-10-sshd-publickey-solution.html&ei=f7wBU8zJG4flrAeYiICICA&usg=AFQjCNHOBw8YanUGavhFzUv20-TeOX8ptA&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.dual-boxing.com/threads/36955-Newb-s-Guide-to-Multiboxing-Start-here-if-you-are-brand-new-to-Multiboxing\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CEQQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=McABU6wigeSzBsLHgPgD&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=LnDMQF5vMR-npBDUsQHl9w\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.com.tw/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.dual-boxing.com/wiki/index.php/New_multiboxer%27s_guide\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=0sIBU8OuJYzBtAa594DwAg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://zoomq.qiniudn.com/ZQScrapBook/ZqFLOSS/data/20110811235550/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=5cMBU5aIG6qP5ASat4D4Bg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=t-HdJF53T-68nmfqSFu5WQ&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/globals_func.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=3&ved=0CEUQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=c8gBU7vkGOmBywPsqYDIBg&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.ch/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/files/xdotool/docs/html/structxdo.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/cse?cx=017877223933725188677%3Aueztpza4fok&ie=UTF-8&q=java&siteurl=semicomplete.com%2F&ref=sysadvent.blogspot.in%2F2011%2F12%2Fday-25-learning-from-other-industries.html&ss=439j66769j4&oq=java&gs_l=partner.3..0.9832.10273.0.10386.4.2.0.2.2.0.128.162.1j1.2.0.gsnos%2Cn%3D13...0.440j67136j4..1ac.1.25.partner..1.3.39.9gJeQCmncHk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.tz/search?q=www.google.com&client=ms-android-alcatel&hl=en-GB&source=android-search-app&v=141338691&source=lnms&tbm=isch&sa=X&ei=Fs8BU6i4CaTA7Aarv4H4Cg&ved=0CAgQ_AUoAA&biw=320&bih=460\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDYQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fdebugging-java-performance.html&ei=jtABU8rYCMnIkQWRvoCYCQ&usg=AFQjCNGldjTC7XU-SbbK7iJWBgl3lSS_qA&sig2=XE3gR8tTRZpvIdddYdEqMw\"",
+        "count": 1
+    },
+    {
+        "refer": "http://askubuntu.com/questions/88948/control-mouse-pointer-with-keyboard-without-a-number-pad\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.it/2013/07/log-analysis-using-logstash.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=15&ved=0CGcQFjAO&url=http%3A%2F%2Fsemicomplete.com%2Ffiles%2Flogstash%2F&ei=wtQBU52CJOPRywPumYHwCw&usg=AFQjCNEM6iuqm7sxu8Xzgkypl8Z17jGTzQ&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fdebugging-java-performance.html&ei=FNUBU92yCtCAhAfRl4CIBQ&usg=AFQjCNGldjTC7XU-SbbK7iJWBgl3lSS_qA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/devopsdays-2010.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/apache-httpd-cache-for-maven.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?client=ms-android-samsung&hl=id&site=webhp&tbm=isch&sa=1&ei=PdUBU8OnEo7xrQej54GIBQ&q=rage+face&oq=rage+&gs_l=mobile-gws-serp.1.1.0l5.55746.58551.0.64162.14.9.0.1.1.0.3101.3101.9-1.1.0....0...1c.1.35.mobile-gws-serp..12.2.3140.DeEjg_N7bu0\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.com.tr/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDsQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=89YBU6LWMvHn4QTYiIDgBA&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=0kEyRPUIuCxfyyYZxyM-NQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&ved=0CDgQFjABOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=axr-Uq6cB8OQ0AXHzoCYDQ&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&bvm=bv.61190604,d.bGE&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&ved=0CEcQFjADOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=6dgBU9jUA8rQ4QTNg4HoCQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=oNG4m36hRgdrhWcb_ESxjQ&bvm=bv.61535280,d.bGE&cad=rjt\"",
+        "count": 1
+    },
+    {
+        "refer": "http://tex.stackexchange.com/questions/28952/pdf-reader-on-linux-capable-of-continuous-updating\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CC0QFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=x6H8UqLFCoKIogT-3oCoBw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61190604,d.cGU&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.ua/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDkQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=9dsBU-j6EeGt4ATryIDwBg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=gdwBU-XuOKjpywPB7YCgCA&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CFsQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=69wBU7CzEMantAbD3YHIAQ&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=20&ved=0CGQQFjAJOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=RN0BU92pM5Ojhge21ID4DQ&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&bvm=bv.61535280,d.ZG4\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&cad=rja&ved=0CCQQFjAAOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fjquery%2520mobile&ei=_d4BU5ylKcGSrgfR24G4Bg&usg=AFQjCNHmLYX9aoOZ44fBHqIez5bhZjlmiQ&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CGsQFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=s-ABU-eMJKH_ygOQ0IHQBg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=L5K5B-6Tq6xbFuBpX8SQew&bvm=bv.61535280,d.bGQ&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.pt/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://simplestcodings.blogspot.in/2010/11/xdotool-fake-keyboardmouse-input-tool.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?safe=active&site=webhp&tbm=isch&source=hp&ei=x-ABU_0xypHQBY-IgMAB&q=w+w+w+google+com&oq=w+w+w&gs_l=mobile-gws-hp.1.1.0l5.14884.19740.0.23740.11.11.0.2.2.3.4144.23835.6-1j3j0j5.9.0....0...1c.1.35.mobile-gws-hp..7.4.5417.Aj4HknagZOo\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=aeIBU9OYLIurhAetuIGYDw&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=BY38Qu8x6rawsMl0avGV3g&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=2eIBU7DZOM7_rAeazIHIDQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=rsN3udunwq_w79qQKO0b4Q&bvm=bv.61535280,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://unix.stackexchange.com/questions/38867/is-it-possible-to-retrieve-the-active-window-process-title-in-gnome\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.fr/2013/07/log-analysis-using-logstash.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=aOMBU6ewCs7J0AX6koGYBw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.d2k&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://logstash.net/docs/1.1.0/tutorials/getting-started-simple\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDsQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=6RboUNCkBJOR0QWAmoCgAw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=4K7QRpYyG6q8_E59KenL5A&bvm=bv.1355534169,d.d2k&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&sqi=2&ved=0CEcQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fjquery%2520mobile&ei=eeUBU-ueLIjBtQa61IGQDA&usg=AFQjCNHmLYX9aoOZ44fBHqIez5bhZjlmiQ&sig2=uVeGYLR2bANpYu46tsWN_Q&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDMQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=dOYBU_GRHMnSsgbZkoGABg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=gAJh0hOUULS6La8QOuGp8Q\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=JOgBU5PPBKWJzAP1v4CoCw&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGE&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&sqi=2&ved=0CDYQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=Z-gBU8i3Co-ZkgXGg4HwAg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.dGI\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/6391705/how-to-cleanly-shutdown-eclipse-from-linux-command-line\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CEMQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fxvfb-firefox.html&ei=u-oBU933A-HqygP-8IGYDw&usg=AFQjCNEFaYxjYoKmLd5CLaG3SbQNStGkLg\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&sqi=2&ved=0CFcQFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fsmart&ei=oMwBU8jmFvSf7AbOooCQDw&usg=AFQjCNGtbJlralrm_FyxYxIfleY3CgXOfQ&sig2=I9__5-dK8L9HK8LEUwnopw&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&ved=0CH8QFjAJ&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=XuwBU4beGsnlyAG4i4GwBg&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&bvm=bv.61535280,d.cWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://mmm-fraud.com/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.davidsoncustom.com/www.google.com&page=5\"",
+        "count": 1
+    },
+    {
+        "refer": "http://r.duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fxvfb-firefox.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&ved=0CDQQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=pe8BU6XMO4mCrgeurIBQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://lifehacker.com/212816/hack-attack-operate-your-mouse-with-your-keyboard\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/yahoo-hackday-06-part1.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.bing.com/images/search?q=httgoogle&id=6A2C8FC5EA5CF191D6C8D1AB8712BB717B8C5AA0&FORM=IQFRBA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.mm/search?q=www+google+com&client=ms-android-samsung&hl=en-US&source=android-browser-suggest&source=lnms&tbm=isch&sa=X&ei=Lu8BU4fuLMnUkgWy-4HwAQ&ved=0CAgQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.baidu.com/s?wd=semicomplete.com-JordanSissel\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.cl/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/578804/how-to-set-the-mouse-position-under-x11-linux-desktop\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.baidu.com/search/spider.htm\"",
+        "count": 1
+    },
+    {
+        "refer": "http://ubuntuforums.org/showthread.php?p=8286294\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDkQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=EPgBU6_bL4bw4QS8rYCABQ&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&ved=0CGQQFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fgrok%3Fpage%3D3&ei=vfgBU7mDJIGftAaykICwAw&usg=AFQjCNH6vm_-0O1rWsuvSMU3wbIS5pRh4g&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=http+//www.google.com/&client=ms-android-sonymobile&hl=fa&source=android-browser-suggest&v=200400000&source=lnms&tbm=isch&sa=X&ei=afgBU_ljwZa1BreMgcgF&ved=0CAgQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CFEQFjAD&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=X_kBU6b-IsnN0QWQ8IHYBQ&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=A1HQYNceiL9OWeerqOb70g&bvm=bv.61535280,d.d2k&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/rspec-for-nagios-monitoring.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://r.duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fzsh\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.mqseries.net/phpBB2/viewtopic.php?t=61911&sid=1870a4fabc29514f20e5ea569bec41f7\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CF0QFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Farticles%2Fweek-of-unix-tools%2Fday-1-sed.html&ei=q_wBU8PTA-eCyAGa8IDABA&usg=AFQjCNEGnAMyfPHahKrUcarWEtldDHOBvQ&sig2=8EzNNjZc-MTaAGVM4vA33w&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.ee/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CEMQFjACOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fxvfb-firefox.html&ei=62FMUceuA8zV4QT-yID4BQ&usg=AFQjCNEFaYxjYoKmLd5CLaG3SbQNStGkLg&bvm=bv.44158598,d.bGE&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0CGUQFjAJ&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fdisabling-battery-in-ubuntu-vms.html&ei=s_8BU9C9JsGphAeQtoFw&usg=AFQjCNGCtI7nRwy4M6vo_Nl_oqhG1IsXZg\"",
+        "count": 1
+    },
+    {
+        "refer": "http://yandex.ru/yandsearch?text=socks5+proxy+50&lr=213\"",
+        "count": 1
+    },
+    {
+        "refer": "http://z0mbix.github.io/blog/2012/03/01/use-nginx-and-passenger-to-power-your-puppet-master/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.rs/url?sa=t&rct=j&q=&esrc=s&source=web&cd=20&ved=0CGwQFjAJOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fpull-album-covers-from-amazon.html&ei=mQACU4-9PIrZsgaMq4F4&usg=AFQjCNEEl6lgsXmiSCNjydA9EReLLBDDuw\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.bing.com/images/search?q=httpwwwgoogle.&id=7EF7BAD1786BD1666197CDB11326F6D5120C0174&FORM=IQFRBA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCMQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=kgICU8S8DciMtQbd9IG4Bw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.Yms&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.si/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0CE0QFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fdeb&ei=yQECU8-LHYzIsgbC54CQBw&usg=AFQjCNHupsJ49QDhyWDEfoWvxMYKgXNwZg&sig2=3_kg1S_5pzLoWSUoGBozSA&bvm=bv.61535280,d.Yms&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://semicomplete.com/kibana/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/web%20services\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/music\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/liboverride\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fssh-security%2F&ei=fwQCU-e8IMOcyQHwiIGoBw&usg=AFQjCNHWyA_svkWgk70ovEbZidQhlAC84w&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.se/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fpython-packages-as-rpm.html&ei=hgUCU8LrH8GD4gT5zICQCA&usg=AFQjCNFjLzIsUiYXkWnxl0JvY_Ie1VSKVw&sig2=EImFVwzbkWS20G6g3uBwcw&bvm=bv.61535280,d.bGE&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://es.wikipedia.org/wiki/Xvfb\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/projects/pmbackup/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&client=ms-android-orange-ma&hl=fr&source=android-search-app&v=141400000&source=lnms&tbm=isch&sa=X&ei=OQgCU4ugHqnW0QX2oICADw&ved=0CAkQ_AUoAA&biw=320&bih=455\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.sk/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=7&cad=rja&ved=0CGEQFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=NwUCU5mFPI2u4QSk74DIAg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&client=ms-android-samsung&hl=ar&gl=ae&source=android-unknown&source=lnms&tbm=isch&sa=X&ei=Lg8CU7j4BennywP01YLIDQ&ved=0CAkQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&ved=0CG8QFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fjquery%2520mobile&ei=BhACU-26C8extAbE_4GYDg&usg=AFQjCNHmLYX9aoOZ44fBHqIez5bhZjlmiQ&sig2=GQ2rVFWLrd4ab_5UwVvgIQ&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://yandex.ru/clck/jsredir?from=yandex.ru%3Byandsearch%3Bweb%3B%3B%2Fweb%2Fitem%2Ftitle%2Cpos%2Cp1%2Csource%2Cweb&text=&etext=238.rJIskveIvnIV6N9H5Zj53nwB9urf41GRHjwHrOQpL0Q.917574d74039578a86be6e83719012a47692f107&uuid=&state=AiuY0DBWFJ4ePaEse6rgeAjgs2pI3DW99KUdgowt9XvoT-twMUKrgCbXY9MpaLOeNeHKaC8Z_SWk6Iy4EP2uXbblK8OgM6lcefxLCA3N7dU1D0whNTZP3_-0W2lwpMS0qaq9eoUEwWtH1lO-Vm-cfSkxpGvZvVnaVvrDrVp7TBQDL1-bHjmZJUFMQHWDu-y2_ns_zZMxFlgbyfvjoPG6Nwxc8iHMqMnqJkLBW5ZgJbxdQOCzX_KC-XWeuEn1e4Q8GwWY0DP9mmaIcnsuEAJFtDSkGqEB_06c&data=UlNrNmk5WktYejR0eWJFYk1LdmtxbkltVkpkY2pNazJfME13WkZDeTZXVE9kRmxxOTd2eUpiS0dteVZhN29EZVl5WURIT09VcXd5ZDcxY2doYWN2NVU5MlR1T0FRUkFYbzdUdGVVQ01QdGJwbE5DeHQ1SHlyXzVKbnk5enZrQW5kQ25Rd2lSTVdSNmoyZXFoSHdDMWZ3&b64e=2&sign=4baf4c07fa96b370d4dc9c4beebb7477&keyno=0&l10n=ru&mc=2.1280852788913944\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.in/2013/07/log-analysis-using-logstash.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDEQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fdisabling-battery-in-ubuntu-vms.html&ei=MBMCU_CFJsP_ygPPyYGoDQ&usg=AFQjCNGCtI7nRwy4M6vo_Nl_oqhG1IsXZg&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&sqi=2&ved=0CEIQFjAE&url=http%3A%2F%2Fsemicomplete.com%2Fpresentations%2Fpuppet-at-loggly%2Fpuppet-at-loggly.pdf.html&ei=lhMCU_GDG9OBhAfOk4D4AQ&usg=AFQjCNGNrd_1HxTJj9vzrdQYDKe1z1WX2A&bvm=bv.61535280,d.ZG4\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.com.au/2013/07/log-analysis-using-logstash.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://image.baidu.com/i?ct=503316480&z=0&tn=baiduimagedetail\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CG8QFjAG&url=http%3A%2F%2Fsemicomplete.com%2Ffiles%2Fblogposts%2F20101209%2Ffullheight.html&ei=nxMCU_WpLYvK0AWv_4GQAQ&usg=AFQjCNHMJuVDWQfa1Ko83sdED2rYiJEJOg&sig2=CZfZmfbhM5bNGvfe8h1g9w\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CD0QFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fdeb&ei=uxoCU6-BJ46QhQfMsICgCA&usg=AFQjCNHupsJ49QDhyWDEfoWvxMYKgXNwZg&sig2=vwl4AxVfnfdxrL8dmoNQJA&bvm=bv.61535280,d.ZG4&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDsQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=dhwCU9DKBYOb0QXj2YBo&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=hVH_gZl_z50cKwZ2vgAtbQ&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=zBwCU8bzPMjayAGQkoCABw&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.cWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=26&ved=0CEUQFjAFOBQ&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=ZR0CU8LeHIKWkwWwrIGIDA&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&sig2=XVeEalJFEffPuJUlTgY0qQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fsolaris-10-sshd-publickey-solution.html&ei=gB0CU4PcFLOMyAH5nYHgCg&usg=AFQjCNHOBw8YanUGavhFzUv20-TeOX8ptA&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=sax/www.google.com/&client=ms-android-samsung&hl=en&gl=gb&source=android-browser-type&source=lnms&tbm=isch&sa=X&ei=th0CU5qXFsOHrQe9_YCwCA&ved=0CAgQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=socks4+proxy+50na50\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDMQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fssh-security%2F&ei=yR8CU7eLDeqo0wWQh4GQDw&usg=AFQjCNHWyA_svkWgk70ovEbZidQhlAC84w&sig2=iY-QqMrQUVE2wf7WYiZGRg&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=0SACU5HAOIfIlAXJuIHYAQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.dGI\"",
+        "count": 1
+    },
+    {
+        "refer": "http://de.wikipedia.org/wiki/Xvfb\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDQQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=5CICU_GqDIXL0QXG9IG4Bg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&ved=0CIUBEBYwCzgK&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fgrok-pattern-autodiscovery.html&ei=VSICU6j0OcTwhQfRwoHQBw&usg=AFQjCNF9DgniAtgXTTR5fpp6dqxDtH7TCQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCYQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=-iICU_TdG4fLkAeV2YCgBQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.eW0\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/7312527/sending-a-keypress-to-an-application\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.baidu.com/s?ie=utf-8&bs=60.191.124.236&f=3&rsv_bp=1&rsv_spt=3&wd=TSIG+error+with+server%3A+tsig+indicates+error&rsv_sug3=2&rsv_sug4=31&rsv_sug1=2&rsp=0&inputT=0\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=YCcCU-2XH4X70gWjhIH4Ag&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CD8Q0gIoAjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml%23keyboard_commands&ei=YCcCU-2XH4X70gWjhIH4Ag&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&ved=0CMoBEBYwDQ&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fjquery%2520mobile&ei=sCgCU5KrBsSe0QWHx4DAAg&usg=AFQjCNHmLYX9aoOZ44fBHqIez5bhZjlmiQ&sig2=0YkkjEfoHpB0dUXiYmJRJA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://unix.stackexchange.com/questions/113901/control-keyboard-input-on-gui-over-ssh/113912?noredirect=1\"",
+        "count": 1
+    },
+    {
+        "refer": "http://logstash.net/docs/1.0.17/getting-started-simple\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=5&ved=0CD8QFjAE&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=NSoCU4mwEMbKlAXc6oCQBg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.dGI\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&ved=0CGEQFjAGOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=HCsCU8rNDaHnygOZooGIDA&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=exxCuAEjVne6DZj4nGnjRQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=tywCU76CG7Gc0wWS7YCwCg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.bGQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/8979332/how-to-keyboard-type-a-variable-using-xdotool\"",
+        "count": 1
+    },
+    {
+        "refer": "http://blog.youxu.info/category/keyboard/\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.hu/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/?flav=rss20\"",
+        "count": 1
+    },
+    {
+        "refer": "https://encrypted.google.com/url?sa=t&rct=j&q=fpm+packager&source=web&cd=3&ved=0CEMQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fdeb&ei=zzICU5v5I6HhywOlmYEY&usg=AFQjCNHupsJ49QDhyWDEfoWvxMYKgXNwZg&sig2=_WsnCxn6HziBdCEjYaxfjQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=tykCU8yGDMjUtQbbxoDwCw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.hu/2013/07/log-analysis-using-logstash.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&sqi=2&ved=0CDAQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fpuppet-nodeless-configuration&ei=CgChUpMp44XJAerUgLgC&usg=AFQjCNGmY7lnNqIHN3ONNtDz7ZsxwHFiAA&bvm=bv.57155469,d.aWc&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDoQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=LjYCU6DsKILftAaa8oCwAw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=wjRK6zd4ddGJpWZYSonrtQ&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.at/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fheadless-wrapper-for-ephemeral-xservers.html&ei=dDYCU6PNOsi84ATg4YFY&usg=AFQjCNHZ2AdZ59y2_CKB9nlqfA7TP8N-9w&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.genieo.com/webfilter.html)\"",
+        "count": 1
+    },
+    {
+        "refer": "http://semicomplete.com\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEgQFjAD&url=http%3A%2F%2Fsemicomplete.com%2Fpresentations%2Flogstash-metrics-sf-2012.10%2F&ei=1TkCU8WhLoXG0QWimoDYDw&usg=AFQjCNETNHgJrHD6ZlVtOw-Zm64scazC4Q&bvm=bv.61535280,d.d2k\"",
+        "count": 1
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/logstash-metrics-sf-2012.10/css/main.css\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.hk/url?sa=t&rct=j&q=xdotool&source=web&cd=1&cad=rja&ved=0CCcQFjAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%73%65%6d%69%63%6f%6d%70%6c%65%74%65%2e%63%6f%6d%2f%70%72%6f%6a%65%63%74%73%2f%78%64%6f%74%6f%6f%6c%2f&ei=iDoCU5GQAeuRiQfwgoDQBA&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&sqi=2&ved=0CC8QFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fssh-security%2F&ei=nDoCU4eSI4PqywPmh4HYCw&usg=AFQjCNHWyA_svkWgk70ovEbZidQhlAC84w&sig2=Wm-dVEXVcG1oyLAw7SiTvA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://semicomplete.com/presentations/vim/%094\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/m?hl=fa&source=android-launcher-widget&q=http.www.googel\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDgQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fppp-over-ssh%2F&ei=YDwCU_bHNsTuyAHQ5oDwCw&usg=AFQjCNHJ26OprxM_R-TJv_w97bzhN-UEag&sig2=22RPOg9JpFnepgN_ajPYTg&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0CEoQFjAF&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fppp-over-ssh%2F&ei=bjwCU67AFYbyyAH8jIHoAQ&usg=AFQjCNHJ26OprxM_R-TJv_w97bzhN-UEag&sig2=w-lE4ayLm10d1oOzZHFVJQ&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=D&q=http://www.semicomplete.com/blog/geekery/bypassing-captive-portals.html&usg=AFQjCNHzPc7MGhpMY6G3DNcVxbVO7kzNdA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/2008/May/30\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&ved=0CF8QFjAF&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fbypassing-captive-portals.html&ei=nT8CU7z_MYOStAalm4DADw&usg=AFQjCNHqab9HLDpOWYMooTqHEFhOjiV0jg&sig2=Iq211FZDxA1fayXwQCQrvw&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC8QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=EEECU-fLGcjctAbdt4CQBQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=fUECU5vJBaPnygOMpIKACg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=i4uIrWaWvv-g2mj798JJDg&bvm=bv.61535280,d.bGQ&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.bing.com/search?q=http+vs+https+latency&qs=n&form=QBRE&pq=http+vs+https+latency&sc=0-10&sp=-1&sk=&cvid=acfee44f6d894c9390329497014f22b7\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.bing.com/images/search?&q=www%2fgoogle.com&qft=+filterui:photo-photo&FORM=R5IR21\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www.google.com&hl=es&gl=es&source=android-browser-type&source=lnms&tbm=isch&sa=X&ei=EEQCU57GILPesASynIDoCA&ved=0CAkQ_AUoAA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDkQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=G0UCU5eXH8i34ASboYGIDw&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=G0UCU5eXH8i34ASboYGIDw&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/bot.html",
+        "count": 1
+    },
+    {
+        "refer": "http://serverfault.com/questions/380454/creating-custom-deb-packages-of-common-programs\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=Www+google+com&biw=320&bih=411&source=lnms&tbm=isch&sa=X&ei=ZUkCU-7LBoH8rAePvoGgCA&ved=0CAoQ_AUoADgK\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDYQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fgrok-pattern-autodiscovery.html&ei=YkwCU7iUGYaekAew-4CICA&usg=AFQjCNF9DgniAtgXTTR5fpp6dqxDtH7TCQ&sig2=UW-3ZCDzocAFXC_iWbkO1g&bvm=bv.61535280,d.eW0&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=ZkwCU7aBAeqn4gSnwYCIDg&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.ve/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&ved=0CE0QFjAF&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=oof1UsTmA42Crgfe_4GoBA&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=5Q7B2SH_xIbLBOEOT80Irg&bvm=bv.60983673,d.bmk\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC4Q0gIoAjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml%23keyboard_commands&ei=dU8CU8qJHae40QWqyYGIDQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=_vGvZ7tT5NScstpbDQ-fpw&bvm=bv.61535280,d.d2k&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.az/search?tbm=isch&source=mog&hl=tr&gl=tr&client=ms-android-samsung&tab=wi&q=google.com&sa=N&biw=320&bih=508\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.bing.com/images/search?q=google.com&qs=ds&form=QBIR\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=UVUCU-LDOKqdyQHq2YGABg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=QKvjwJlY5pSnQguCXVFKDA&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://forums.opensuse.org/showthread.php/432149-Linux-key-press-utility\"",
+        "count": 1
+    },
+    {
+        "refer": "http://doc.ubuntu-fr.org/xbindkeys\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDYQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=XlcCU6DPCcqCyQHUioDQDw&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&bvm=bv.61535280,d.aWc&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.co.uk/2013/07/log-analysis-using-logstash.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&ved=0CG4QFjAIOAo&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fassert&ei=QFkCU8a1JoWHtQaEhYDQCg&usg=AFQjCNFsHtXOdEyPkxGOTwnikujl7M1vNQ&sig2=vZsXYE_Gy5eveCsxCsE31Q&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/tags/assert\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=y1oCU6KBC8KstAaXoIGYDw&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.ibm.com/developerworks/br/linux/library/x-xdotool/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDQQFjAD&url=http%3A%2F%2Fsemicomplete.com%2Ffiles%2Flogstash%2F&ei=BF4CU4OEIYaiiAf184CABw&usg=AFQjCNEM6iuqm7sxu8Xzgkypl8Z17jGTzQ&bvm=bv.61535280,d.aGc&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://r.duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&ved=0CIMBEBYwCA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fpuppet-exported-resource-expiration.html&ei=AmACU7ehFfLe7AaCpoDgCg&usg=AFQjCNHhfvTCBSm7PtmmOzHoUt43xbCT8g&sig2=E4ESJeCFa5gkK_S3UE6naw&bvm=bv.61535280,d.ZGU&cad=rja\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=7WACU7-CI8uFogTDnYHgDw&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=5DgBFUIRlwAnB5NrLR4ytw\"",
+        "count": 1
+    },
+    {
+        "refer": "http://installion.co.uk/ubuntu/lucid/universe/x/xdotool/pt/install.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Fssl-latency.html&ei=omQCU7DdA8blyQGmxIG4DQ&usg=AFQjCNHw6zioJpizqX8Q0YpKKaF4zdCSEg&sig2=yVQH2ij8scHrRYFEbwk2ng&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?q=www+.google.com&source=lnms&tbm=isch&sa=X&ei=WgMCU4qxGsL_ygPji4LgAQ&ved=0CAoQ_AUoAA&biw=320&bih=508&dpr=1.5\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/search?redir_esc=&hl=fr&client=tablet-unknown&source=android-search-app&v=200400000&qsubts=1392665999286&q=www.google.com&tbm=isch&safe=images&biw=600&bih=862&aqs=.&oq=www.google.com&noj=1\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=LGcCU-XXN-SOyAGWhYG4BQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.aWc\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/14941534/how-can-i-send-keyboard-presses-mouse-clicks-to-other-gui-application-in-ubuntu\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=10&ved=0CGgQFjAJ&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fopenldap-with-saslauthd%2F&ei=DU8CU9GwBsf52wXaloGgAQ&usg=AFQjCNHLA04dGfdlvMGfAcswvXWKZkRw7Q\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/presentations/logstash-blah/images/office-space-printer-beat-down-gif.gif\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.be/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CGIQFjAG&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=b2kCU-W1EeKq4ASo74DICQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=viUD7rCMv4fTwfnaRJ_q1Q&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "https://www.google.ie/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://kufli.blogspot.hu/2013_07_01_archive.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&ved=0CH4QFjAJ&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=N2UCU5aBDKbQ0QGI3YKgCA&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&sig2=duq-YoWqw4L6deZTsmaZQQ&bvm=bv.61535280,d.dmQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ca/search?client=safari&hl=en&tbm=isch&q=rage+face&revid=2113665764&sa=X&ei=_moCU43rO9aEoQSKpYDwDg&ved=0CDUQ1QIoAQ&dpr=2&biw=320&bih=356\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CEUQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=wmsCU5bXG8K2hQeJ7IHwDQ&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&sig2=0ySvxcOTgnOGHHi_LWxmMQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCgQygQwAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml%23window_commands&ei=YW4CU6WPMoiUtQaVh4HwCA&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.Yms\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.fi/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC4QFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=JXACU475N9CUhQeck4DgCw&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&sig2=LhpFDliSOw9nz5r-y6pqLg&bvm=bv.61535280,d.ZG4\"",
+        "count": 1
+    },
+    {
+        "refer": "http://r.duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fssh-security%2F\"",
+        "count": 1
+    },
+    {
+        "refer": "https://encrypted.google.com/url?sa=t&rct=j&q=fpm+packager&source=web&cd=3&ved=0CEMQFjAC&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Ftags%2Fdeb&ei=F3ECU92HIILmywPH74L4Aw&usg=AFQjCNHupsJ49QDhyWDEfoWvxMYKgXNwZg&sig2=Ui6CijZqbcJ0He2ALh1jqA\"",
+        "count": 1
+    },
+    {
+        "refer": "http://ilovetechnique.wordpress.com/2013/07/24/using-of-curl/\"",
+        "count": 1
+    },
+    {
+        "refer": "http://stackoverflow.com/questions/6038427/how-to-view-http-response-message-in-apache\"",
+        "count": 1
+    },
+    {
+        "refer": "http://images.yandex.ru/yandsearch?p=9&text=%D0%BB%D0%B8%D1%86%D0%BE%20%D0%B8%20%D0%B4%D0%B2%D0%B0%20%D1%85%D1%83%D1%8F&fp=9&pos=286&uinfo=ww-1263-wh-692-fw-1038-fh-486-pd-1&rpt=simage&img_url=http%3A%2F%2Fg1.s3.forblabla.com%2Fu38%2Fphoto926D%2F20523566942-0%2Flarge.jpeg\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCMQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2Fxdotool.xhtml&ei=7XUCU826KPGv4QTO7YDwAg&usg=AFQjCNFwZFAI0RQdN_N0kFH-oj8cLsJRNQ&bvm=bv.61535280,d.bGE\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CF8QFjAI&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=73UCU8CuLuad0QH6goDgCg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.dmQ\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.md/url?sa=t&rct=j&q=&esrc=s&source=web&cd=46&cad=rja&ved=0CEYQFjAFOCg&url=http%3A%2F%2Fwww.semicomplete.com%2Fblog%2Fgeekery%2Frrdtool-behavior-detection.html&ei=qHYCU-7PEMqThgfeyIDACw&usg=AFQjCNG7nAFw0qfe7BXgTySbqLZZFubVhw\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.semicomplete.com/blog/geekery/rrdtool-behavior-detection.html\"",
+        "count": 1
+    },
+    {
+        "refer": "http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.semicomplete.com%2Fprojects%2Fxdotool%2F&ei=E3cCU4qsLObA0AGehYDoDQ&usg=AFQjCNE3V_aCf3-gfNcbS924S6jZ6FqffA&bvm=bv.61535280,d.dmQ\"",
+        "count": 1
+    }
+]
