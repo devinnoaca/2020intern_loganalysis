@@ -6,7 +6,7 @@ const fs = require('fs');
 
 router.get('/', async(req, res, next) =>{
 
-     res.render("url");
+     res.render("amCharts");
 });
 
 module.exports = router;
