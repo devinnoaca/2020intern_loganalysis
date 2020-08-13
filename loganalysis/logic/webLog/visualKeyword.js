@@ -5,7 +5,7 @@ exports.visualKeyword = (inputFileName, outputFileName) =>{
     const readFile = fs.readFileSync(inputFileName,'utf-8');
     const parseFile = JSON.parse(readFile);
     for(let i  = 0 ; i< 20; i++){
-        visualData.push(parseFile[i]);
+        if(parseFile[i]) visualData.push(parseFile[i]);
     }
     objectToJson.objectToJson(outputFileName, visualData);
 };
