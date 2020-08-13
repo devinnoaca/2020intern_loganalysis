@@ -1,52 +1,46 @@
-let margin = {top: 20, right: 20, bottom: 30, left: 40},  // 여백   
-    width = 1500 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+am4core.ready(function() {
 
-// set the ranges
-let x = d3.scaleBand()
-      .range([0, width])
-      .padding(0.1);
-let y = d3.scaleLinear()
-      .range([height, 0]);
+    // Themes begin
+    am4core.useTheme(am4themes_animated);
+    // Themes end
+    
+    // Create chart instance
+    var chart = am4core.create("chartdiv", am4charts.XYChart);
+    
+    // Add data
+   
+    d3.json("/a.json", function(error, data) { //빈칸으로 뚫어놔야함 파일 경로는 route 위치
+        chart.data = data;
+    });
 
-// append the svg object to the body of the page
-// append a 'group' element to 'svg'
-// moves the 'group' element to the top left margin
-let svg = d3.select("body").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-    .attr("transform", 
-        "translate(" + margin.left + "," + margin.top + ")");
+    
+    // Create axes
+    
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "ip";
+    categoryAxis.renderer.grid.template.location = 0;
+    categoryAxis.renderer.minGridDistance = 30;
+    
+    categoryAxis.renderer.labels.template.adapter.add("dy", function(dy, target) {
+      if (target.dataItem && target.dataItem.index & 2 == 2) {
+        return dy + 25;
+      }
+      return dy;
+    });
+    
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    
+    // Create series
+    var series = chart.series.push(new am4charts.ColumnSeries());
+    series.dataFields.valueY = "count";
+    series.dataFields.categoryX = "ip";
+    series.name = "count";
+    series.columns.template.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+    series.columns.template.fillOpacity = .8;
+    
+    var columnTemplate = series.columns.template;
+    columnTemplate.strokeWidth = 2;
+    columnTemplate.strokeOpacity = 1;
 
-// get the data
-d3.json("123.json", function(error, data) { //빈칸으로 뚫어놔야함
-    if (error) throw error;
-// format the data
-    data.forEach(function(d) {
-        d.count = + d.count;
-});
+}); // end am4core.ready()
 
-// Scale the range of the data in the domains
-x.domain(data.map(function(d) { return d.ip; }));
-y.domain([0, d3.max(data, function(d) { return d.count; })]);
-
-// append the rectangles for the bar chart
-svg.selectAll(".bar")
-    .data(data)
-    .enter().append("rect")
-    .attr("class", "bar")
-    .attr("x", function(d) { return x(d.ip); }) //고정된값 
-    .attr("width", x.bandwidth())
-    .attr("y", function(d) { return y(d.count); })
-    .attr("height", function(d) { return height - y(d.count); });
-
-// add the x Axis
-svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x));
-
-// add the y Axis
-svg.append("g")
-    .call(d3.axisLeft(y));
-});
