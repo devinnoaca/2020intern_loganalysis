@@ -9,7 +9,7 @@ am4core.ready(function() {
     
     // Add data
        
-    d3.json("/a.json", function(error, data) { //빈칸으로 뚫어놔야함 파일 경로는 route 위치
+    d3.json("../visualLogs/visual-ip.json", function(error, data) { //빈칸으로 뚫어놔야함 파일 경로는 route 위치
         chart.data = data;
     });
 

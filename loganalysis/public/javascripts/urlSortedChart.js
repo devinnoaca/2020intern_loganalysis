@@ -9,7 +9,7 @@ am4core.ready(function() {
     
     var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis());
     categoryAxis.renderer.grid.template.location = 0;
-    categoryAxis.dataFields.category = "ip";
+    categoryAxis.dataFields.category = "url";
     categoryAxis.renderer.minGridDistance = 1;
     categoryAxis.renderer.inversed = true;
     categoryAxis.renderer.grid.template.disabled = true;
@@ -18,7 +18,7 @@ am4core.ready(function() {
     valueAxis.min = 0;
     
     var series = chart.series.push(new am4charts.ColumnSeries());
-    series.dataFields.categoryY = "ip";
+    series.dataFields.categoryY = "url";
     series.dataFields.valueX = "count";
     series.tooltipText = "{valueX.value}"
     series.columns.template.strokeOpacity = 0;
@@ -37,7 +37,7 @@ am4core.ready(function() {
     });
     
     categoryAxis.sortBySeries = series;
-    d3.json("/a.json", function(error, data) { //빈칸으로 뚫어놔야함 파일 경로는 route 위치
+    d3.json("../visualLogs/visual-url.json", function(error, data) { //빈칸으로 뚫어놔야함 파일 경로는 route 위치
         chart.data = data;
     });
     

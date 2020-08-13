@@ -4,9 +4,22 @@ const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 
-router.get('/', async(req, res, next) =>{
+// router.get('/', async(req, res, next) =>{
+//      const dataType = req.params.dataType;
+//      console.log(dataType);
+//      // if(dataType==='ip')  res.render('ipChart');
+//      // if(dataType==='url')  res.render('urlchart');
+//      // if(dataType==='method')  res.render("methodChart");
+//      // if(dataType==='refer')  res.render("referChart");
+//      res.render('ipChart');
+// });
 
-     res.render("amCharts");
+router.get('/:dataType', async(req, res, next) =>{
+     const dataType = req.params.dataType;
+     console.log(dataType);
+     if(dataType==='ip')  res.render('ipChart');
+     if(dataType==='url')  res.render('urlchart');
+     if(dataType==='refer')  res.render("referChart");
 });
 
 module.exports = router;
