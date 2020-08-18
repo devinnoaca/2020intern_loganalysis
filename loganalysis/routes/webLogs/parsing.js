@@ -14,7 +14,6 @@ router.get('/:inputName/:outputName', async(req, res, next) =>{
         const splitData = await splitLog.splitLog(inputName); //로그 split
         const logData =  await logParer.webLogParser(splitData); // log parsing
         objectToJson.objectToJson(outputName, logData);  //객체를 JSON 파일로 바꿈
-        // console.log(" 성공");
         res.json('파싱 성공');
     }
 });
