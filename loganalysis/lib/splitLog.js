@@ -6,8 +6,8 @@ exports.splitLog = (fileName) =>{
     const readLog = fs.readFileSync(fileName,'utf-8');    
     return readLog.split('\n'); //return 값은 문자열 배열
     }catch(err){
-        console.log(err);
-        return;
+        console.error(`Error: ${err.message}`);
+        return false;
     }
 };
     

@@ -6,7 +6,7 @@ exports.objectToJson = (path, objectArray) =>{ // path 어느 경로에 저장�
     try{
         fs.writeFileSync(path, JSON.stringify(objectArray, null, 4)); 
     }catch(err){
-        console.log(err);
-        return;
+        console.error(`Error: ${err.message}`);
+        return false;
     }
 };

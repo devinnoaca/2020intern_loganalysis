@@ -1,21 +1,25 @@
-/* 파싱 라우터 */
 const express = require('express');
 const router = express.Router();
-const logParer = require('../../logic/webLog/logParser.js'); 
-const splitLog = require('../../logic/splitLog');
-const objectToJson = require('../../logic/objectToJson');
+const mainParser = require('../../lib/webLog/mainParser');
+const { isLogInputValid, 
+        isJsonOutputValid, 
+        isFileValid,
+      } = require('../../middleware/validations');
 
-// /webLogs/parsing/{inputName}/{outputName}
+router.get('/', (req,res) =>{
+    res.json({
+        isError: true,
+        message: '파싱할 LOG파일과 내보낼 JSON 파일의 이름을 지정하세요.',
+    });
+});
 
-router.get('/:inputName/:outputName', async(req, res, next) =>{
-    const inputName = 'logs/webLogs/' + req.params.inputName;
-    const outputName = 'jsonLogs/webLogs/' + req.params.outputName;
-    if(inputName && outputName){
-        const splitData = await splitLog.splitLog(inputName); //로그 split
-        const logData =  await logParer.webLogParser(splitData); // log parsing
-        objectToJson.objectToJson(outputName, logData);  //객체를 JSON 파일로 바꿈
-        res.json('파싱 성공');
-    }
+
+router.get('/:inputName/:outputName',isLogInputValid, isJsonOutputValid , isFileValid, (req, res) =>{
+    mainParser.mainParser(req.params);
+    res.json({
+        isAccess: true,
+        message: '파싱 성공',
+    });
 });
 
 

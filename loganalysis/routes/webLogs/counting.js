@@ -1,21 +1,27 @@
 /*카운팅 라우터 */
 const express = require('express');
 const router = express.Router();
-const countKeyword = require('../../logic/webLog/countKeyword');
-const visualKeyword = require('../../logic/webLog/visualKeyword');
-// /webLogs/conting/{dataType}/{inputName}/{outputName}
+const mainCouter = require('../../lib/webLog/mainCounter');
+const { 
+        isJsonInputValid, 
+        isJsonOutputValid, 
+      } = require('../../middleware/validations');
 
-router.get('/:dataType/:inputName/:outputName', async (req, res, next) =>{
-    const dataType =  req.params.dataType;  
-    const inputName = 'jsonLogs/webLogs/' + req.params.inputName;
-    const outputName = 'jsonLogs/webLogs/countedLogs/' + dataType + '.json';
-     // 선택한 데이터를 counting
-    if(inputName && outputName && dataType) {
-        await countKeyword.countKeyword(dataType, inputName, outputName);
-        visualKeyword.visualKeyword(outputName,'jsonLogs/webLogs/visualLogs/visual-' + dataType +'.json');
-    } 
-    res.json('카운팅 성공');
+
+router.get('/', (req,res) =>{
+    res.json({
+        isError: true,
+        message: '카운팅할 JSON파일과 내보낼 JSON 파일의 이름을 지정하세요.',
+    });
 });
 
+
+router.get('/:dataType/:inputName/:outputName',isJsonInputValid, isJsonOutputValid, (req, res) =>{
+    mainCouter.mainCounter(req.params);
+    res.json({
+        isAccess: true,
+        message: '카운팅 성공',
+    });
+});
 
 module.exports = router;

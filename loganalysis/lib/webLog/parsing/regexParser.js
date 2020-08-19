@@ -1,10 +1,9 @@
 /* Weblog를 parsing해서 객체를 생성 */
-const webRegex = require("../../regex/webLogRegex");
-const splitMethod = require('./parsing/splitMethod');
-const pushObject = require('./parsing/pushObject');
-const methodParser = require('./parsing/methodParser');
+const webRegex = require("../../../regex/webLogRegex");
+const { pushObject } = require('./pushObject');
+const methodParser = require('./methodParser');
 
-exports.webLogParser = (logArray) =>{  //split된 로그 배열을 입력 받음; 
+exports.regexParser = (logArray) =>{  //split된 로그 배열을 입력 받음; 
     const webLogObject = [];
     if(logArray){
         const regex = webRegex.regex; 
@@ -16,7 +15,7 @@ exports.webLogParser = (logArray) =>{  //split된 로그 배열을 입력 받음
             const regexRefer = element.match(regex.webRefer);
             if(regexMethod){ 
                 const realMethod = await methodParser.methodPaser(regexMethod); // 메소드 부분만 따로 파싱한다.
-                const parsedData = pushObject.pushObject(regexIp, realMethod, regexDate, regexRefer); 
+                const parsedData = pushObject(regexIp, realMethod, regexDate, regexRefer); 
                 if(parsedData) webLogObject.push(parsedData);
             }
         });

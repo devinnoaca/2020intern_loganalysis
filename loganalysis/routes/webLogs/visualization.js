@@ -10,11 +10,9 @@ router.get('/', async(req, res, next) =>{
 
 router.get('/:dataType', async(req, res, next) =>{
      const dataType = req.params.dataType;
-     console.log(dataType);
      if(dataType==='ip')  res.render('ipChart');
      if(dataType==='url')  res.render('urlchart');
      if(dataType==='refer')  res.render("referChart");
-     //라우팅 에러 상태코드 작성
 });
 
 module.exports = router;
