@@ -10,7 +10,7 @@
 
 ---
 
-![](docs/pic.gif)
+![](docs/pic2.gif)
 
 
 
