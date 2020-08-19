@@ -45,5 +45,5 @@ exports.pushObject = (regexIp, realMethod, regexDate, regexRefer)=>{
         return webLogObject;
      }
     //  console.log('pushObject 함수 실행 실패');
-     return 0;
+     return;
 };

@@ -11,6 +11,7 @@ const date= /\[([\w:/]+\s[+\-]\d{4})\]/g;
 const method = /(GET|POST|PUT|DELETE)\s?(\S+)?\s?(\S+)"/g
 // GET 뒤에 있는 url 가져와야함.
 
+
 exports.regex = {
     webIp : ip,
     webDate: date,
