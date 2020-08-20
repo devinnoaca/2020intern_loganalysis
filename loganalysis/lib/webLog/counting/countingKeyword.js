@@ -4,7 +4,6 @@ const counted = [];
 
 exports.countingKeyword = (parsedArray, objectType) =>{
     counted.length=0; // 배열 초기화 필수
-    if(parsedArray && objectType){
         parsedArray.forEach(e => {
             if(objectType === 'ip') countingIp(e.ip);
             if(objectType === 'date') countingDate(e.date);
@@ -12,7 +11,6 @@ exports.countingKeyword = (parsedArray, objectType) =>{
             if(objectType === 'method') countingMethod(e.method);
             if(objectType === 'refer') countingRefer(e.refer);
         });
-    }
     return counted;
 };
 
