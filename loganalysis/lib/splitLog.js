@@ -6,6 +6,7 @@ exports.splitLog = (fileName) =>{
     const readLog = fs.readFileSync(fileName,'utf-8');    
     return readLog.split('\n'); //return 값은 문자열 배열
     }catch(err){
+        // 노티피케이션을 해야 하지만 지금은 하지 않았음
         console.error(`Error: ${err.message}`);
         return false;
     }
